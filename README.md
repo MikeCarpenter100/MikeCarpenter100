@@ -6,7 +6,7 @@ I'm Mikołaj, a QA Game Tester with **4+ years** of experience in the gaming ind
 🛠 Building game development skills through personal projects  
 🚀 Working toward a career as a Game Developer
 
-👉 [My most advanced project yet]([https://github.com/MikeCarpenter100/RedHood-2D-Platformer))
+👉 [My most advanced project yet](https://github.com/MikeCarpenter100/RedHood-2D-Platformer)
 ## Technologies & Tools
 
 - Unreal Engine 5
